@@ -11,7 +11,7 @@
 
 ## Pricing 💲
 
-Get all these features for just **$400.00**!
+Get all these features for just **$50.00**!
 
 
 ## Disclaimer ⚠️
@@ -22,7 +22,7 @@ This software is for ethical use only.
 
 ## Support Our Vision 🌟
 
-**Donation Address (ETH/BNB/ERC20/BEP20):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A`
+**Donation Address (ETH/BNB/ERC20/BEP20):** `0x2943Cc9fC4DfA346864fD2f729e22A7543B15EAB`
 
 ## Engage & Contribute 🌐
 
@@ -30,19 +30,12 @@ This software is for ethical use only.
 
 1. **Multi-Chain Support**
 2. **Flash USDT Tools**
-3. **Fixed Price: $400**
+3. **Fixed Price: $50**
 4. **Developer Opportunities**
 5. **Transaction Tracking**
 
 ### How to Contribute
 
-- Follow the donation procedure.
-- Add transactions to `transactions.txt`.
-- Submit pull requests.
-
-- **Issues & Ideas**: [Submit Here](https://github.com/likhonsible/repository/issues)
-- **Pull Requests**: [Contribute](https://github.com/likhonsible/repository/pulls)
-- **Wiki**: [Learn More](https://github.com/likhonsible/repository/wiki)
 
 ## Exclusive Access for Supporting Developers 🌟
 
@@ -69,8 +62,8 @@ This software is for ethical use only.
 ### For Non-Developer Users:
 
 - **Direct Purchase Required**:
-  - Non-developer users can acquire access by purchasing the software.
-  - Visit our [Owner Accounts]([h](https://t.me/sheikhlikhon)) for more details.
+ Send Funds to this address '0x2943Cc9fC4DfA346864fD2f729e22A7543B15EAB'
+ We will send via the megalink + Password to download   
 
 ### Stay Connected & Informed:
 
@@ -86,7 +79,7 @@ This software is for ethical use only.
 
 ---
 
-🔗 **Buy Now**: [Donate Here](https://scripters.shop/)
+🔗 **Buy Now**:    
 
 🙏 **Thank You for Believing in Our Vision and Supporting Our Journey!**
 
